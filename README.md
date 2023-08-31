@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Substrate Parity**
 
-- 💬 Ask me about **Substrate, Ink Parity Smart Contract, Rust, Ethereum, Polkadot, Nfts,Defi's**
+- 💬 Ask me about **Substrate, Cosm-Wasm Smart Contract, Rust, Ethereum, Polkadot, Zk-Rollups,Cosmos**
 
 - 📫 How to reach me **raidivyank08@gmail.com**
 
