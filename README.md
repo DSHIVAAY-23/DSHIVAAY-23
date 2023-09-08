@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [ZK-Rollups]
 
-- 🌱 I’m currently learning **Substrate Parity**
+- 🌱 I’m currently learning **Zk Stark**
 
 - 💬 Ask me about **Substrate, Cosm-Wasm Smart Contract, Rust, Ethereum, Polkadot, Zk-Rollups,Cosmos**
 
