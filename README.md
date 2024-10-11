@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/raidivyank" target="blank"><img src="https://img.shields.io/twitter/follow/raidivyank?logo=twitter&style=for-the-badge" alt="raidivyank" /></a> </p>
 
-- 🔭 I’m currently working on [ZK-Rollups]
+- 🔭 I’m currently working on Blockchain Solutions
 
-- 🌱 I’m currently learning **Zk Stark**
+- 🌱 I’m currently learning **Zk Rollups**
 
 - 💬 Ask me about **Substrate, Cosm-Wasm Smart Contract, Rust, Ethereum, Polkadot, Zk-Rollups,Cosmos**
 
