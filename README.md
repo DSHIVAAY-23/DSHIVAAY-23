@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Blockchain Solutions
 
-- 🌱 I’m currently learning **Zk Rollups**
+- 🌱 I’m working on **Rollups**
 
 - 💬 Ask me about **Substrate, Cosm-Wasm Smart Contract, Rust, Ethereum, Polkadot, Zk-Rollups,Cosmos**
 
