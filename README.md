@@ -58,14 +58,7 @@
  
 ![](https://github-contributor-stats.vercel.app/api?username=dshivaay-23&limit=15&theme=dark&combine_all_yearly_contributions=true)
 
-</td>
 
-<td width="50%" align="center">
-
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dshivaay-23)
-  
-  </td>
 </tr>
 </table>
 
