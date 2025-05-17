@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on Blockchain Solutions
 
-- 🌱 Lets simplify crypto and finance together 
+- 🌱 Let me simplify crypto and finance  
 
 - 💬 Ask me about **Substrate, Cosm-Wasm Smart Contract, Rust, Ethereum, Polkadot, Zk-Rollups,Cosmos**
 
@@ -63,7 +63,7 @@
 <td width="50%" align="center">
 
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ryzen_xp)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Dshivaay-23)
   
   </td>
 
