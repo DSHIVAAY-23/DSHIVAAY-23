@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on Blockchain Solutions
 
-- 🌱 I’m working on **Rollups**
+- 🌱 Lets simplify crypto and finance together 
 
 - 💬 Ask me about **Substrate, Cosm-Wasm Smart Contract, Rust, Ethereum, Polkadot, Zk-Rollups,Cosmos**
 
