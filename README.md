@@ -63,7 +63,7 @@
 <td width="50%" align="center">
 
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DSHIVAAY-23)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dshivaay-23)
   
   </td>
 
