@@ -17,6 +17,8 @@
 
 
 <p align="left"> <a href="https://twitter.com/raidivyank" target="blank"><img src="https://img.shields.io/twitter/follow/raidivyank?logo=twitter&style=for-the-badge" alt="raidivyank" /></a> </p>
+<a href="https://codeforces.com/profile/raidivyank08" target="blank"><img src=https://img.shields.io/badge/Codeforces-%23000000.svg?&style=for-the-badge&logo=codeforces&logoColor=white alt=codeforces style="margin-bottom: 5px;" /></a>
+
 - 💬 Telegram **https://t.me/dshivaay23**
 
 
@@ -42,11 +44,8 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
- 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=dshivaay-23&theme=dark&show_icons=true&count_private=true" />
-
 </td>
-
 <td width="50%" align="center">
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dshivaay-23&theme=dark&hide_border=false" /> 
   
@@ -62,10 +61,8 @@
 
 <td width="50%" align="center">
 
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dshivaay-23&show_icons=true&locale=en&layout=compact" alt="dshivaay-23" /></p>
-  
-  </td>
+ </td>
 
 </tr>
 </table>
