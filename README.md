@@ -63,7 +63,7 @@
 <td width="50%" align="center">
 
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dshivaay_23)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dshivaay-23&show_icons=true&locale=en&layout=compact" alt="dshivaay-23" /></p>
   
   </td>
 
