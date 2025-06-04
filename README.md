@@ -39,7 +39,13 @@
   <img src=https://go-skill-icons.vercel.app/api/icons?i=solidity,rust,cairo,javascript,ts,nodejs,nest,linux />
 </div>
 <br><br/>
+</td>
 
+<td width="50%" align="center">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dshivaay-23&show_icons=true&locale=en&layout=compact" alt="dshivaay-23" /></p>
+ </td>
+ 
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
