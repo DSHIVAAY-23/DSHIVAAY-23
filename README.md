@@ -59,16 +59,8 @@
 </tr>
 
 <tr border="none">
-<td width="50%" align="center">
  
 ![](https://github-contributor-stats.vercel.app/api?username=dshivaay-23&limit=15&theme=dark&combine_all_yearly_contributions=true)
-
-</td>
-
-<td width="50%" align="center">
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dshivaay-23&show_icons=true&locale=en&layout=compact" alt="dshivaay-23" /></p>
- </td>
 
 </tr>
 </table>
