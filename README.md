@@ -59,7 +59,7 @@
 </tr>
 
 <tr border="none">
-<td width="80%" align="center">
+<td width="60%" align="center">
 
  
 ![](https://github-contributor-stats.vercel.app/api?username=dshivaay-23&limit=15&theme=dark&combine_all_yearly_contributions=true)
